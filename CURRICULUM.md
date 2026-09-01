@@ -39,7 +39,7 @@ This document serves as the **SINGLE SOURCE OF TRUTH** for the entire backend en
 | `MOD-22` | **File & Object Storage** | [`22-file-and-object-storage/`](./22-file-and-object-storage/) | `COMPLETE` ✅ | MOD-05 |  ✅ | — | ✅ |
 | `MOD-23` | **Search & Inverted Indexes** | [`23-search/`](./23-search/) | `COMPLETE` ✅ | MOD-07, MOD-12 |  ✅ | — | ✅ |
 | `MOD-24` | **Real-Time Systems** | [`24-real-time-systems/`](./24-real-time-systems/) | `COMPLETE` ✅ | MOD-02, MOD-15 |  ✅ | — | ✅ |
-| `MOD-25` | **Cloud Backend (AWS)** | [`25-cloud-backend/`](./25-cloud-backend/) | `TODO` | MOD-19, MOD-22 |  ✅ | — | ✅ |
+| `MOD-25` | **Cloud Backend (AWS)** | [`25-cloud-backend/`](./25-cloud-backend/) | `COMPLETE` ✅ | MOD-19, MOD-22 |  ✅ | — | ✅ |
 | `MOD-26` | **Containers & Kubernetes** | [`26-containers-and-kubernetes/`](./26-containers-and-kubernetes/) | `TODO` | MOD-19 |  ✅ | — | ✅ |
 | `MOD-27` | **Production Engineering** | [`27-production-engineering/`](./27-production-engineering/) | `TODO` | MOD-16, MOD-26 |  ✅ | — | ✅ |
 | `MOD-28` | **Testing Backend Systems** | [`28-testing/`](./28-testing/) | `TODO` | MOD-07, MOD-11 |  ✅ | — | ✅ |
