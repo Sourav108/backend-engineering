@@ -1,0 +1,42 @@
+# Maven & Build Artifacts
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# JVM crash logs & dumps
+*.class
+*.jar
+*.war
+*.ear
+*.hprof
+hs_err_pid*
+replay_pid*
+
+# IDE & OS files
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.settings/
+.project/
+.classpath
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs & Temporary files
+logs/
+*.log
+tmp/
+temp/
