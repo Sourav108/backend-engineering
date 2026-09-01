@@ -29,7 +29,7 @@ This document serves as the **SINGLE SOURCE OF TRUTH** for the entire backend en
 | `MOD-12` | **Event-Driven Architecture** | [`12-event-driven-architecture/`](./12-event-driven-architecture/) | `COMPLETE` ✅ | MOD-11 |  ✅ | — | ✅ |
 | `MOD-13` | **Distributed Systems Core** | [`13-distributed-systems/`](./13-distributed-systems/) | `COMPLETE` ✅ | MOD-09, MOD-11 |  ✅ | — | ✅ |
 | `MOD-14` | **Resilience & Fault Tolerance**| [`14-resilience/`](./14-resilience/) | `COMPLETE` ✅ | MOD-05, MOD-13 |  ✅ | — | ✅ |
-| `MOD-15` | **Concurrency & Backpressure** | [`15-concurrency-and-backpressure/`](./15-concurrency-and-backpressure/) | `TODO` | MOD-01, MOD-03 |  ✅ | — | ✅ |
+| `MOD-15` | **Concurrency & Backpressure** | [`15-concurrency-and-backpressure/`](./15-concurrency-and-backpressure/) | `COMPLETE` ✅ | MOD-01, MOD-03 |  ✅ | — | ✅ |
 | `MOD-16` | **Observability & Tracing** | [`16-observability/`](./16-observability/) | `TODO` | MOD-03, MOD-14 |  ✅ | — | ✅ |
 | `MOD-17` | **Performance & p99 Tuning** | [`17-performance/`](./17-performance/) | `TODO` | MOD-08, MOD-15 |  ✅ | — | ✅ |
 | `MOD-18` | **Scalability & Sharding** | [`18-scalability/`](./18-scalability/) | `TODO` | MOD-08, MOD-10 |  ✅ | — | ✅ |
