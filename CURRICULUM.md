@@ -21,7 +21,7 @@ This document serves as the **SINGLE SOURCE OF TRUTH** for the entire backend en
 | `MOD-04` | **Networking for Backend** | [`04-networking-for-backend/`](./04-networking-for-backend/) | `COMPLETE` ✅ | MOD-02 |  ✅ | — | ✅ |
 | `MOD-05` | **API Design & Idempotency** | [`05-api-design/`](./05-api-design/) | `COMPLETE` ✅ | MOD-02, MOD-03 |  ✅ | — | ✅ |
 | `MOD-06` | **Authentication & Security** | [`06-authentication-and-security/`](./06-authentication-and-security/) | `COMPLETE` ✅ | MOD-05 |  ✅ | — | ✅ |
-| `MOD-07` | **Databases (SQL & NoSQL)** | [`07-databases/`](./07-databases/) | `TODO` | MOD-01 |  ✅ | — | ✅ |
+| `MOD-07` | **Databases (SQL & NoSQL)** | [`07-databases/`](./07-databases/) | `COMPLETE` ✅ | MOD-01 |  ✅ | — | ✅ |
 | `MOD-08` | **Database Internals & Storage**| [`08-database-internals/`](./08-database-internals/) | `TODO` | MOD-07 |  ✅ | — | ✅ |
 | `MOD-09` | **Transactions & Consistency** | [`09-transactions-and-consistency/`](./09-transactions-and-consistency/) | `TODO` | MOD-07, MOD-08 |  ✅ | — | ✅ |
 | `MOD-10` | **Caching & Redis Mechanics** | [`10-caching/`](./10-caching/) | `TODO` | MOD-07 |  ✅ | — | ✅ |
