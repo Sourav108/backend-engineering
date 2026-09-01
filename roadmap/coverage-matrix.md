@@ -17,7 +17,7 @@ A comprehensive verification matrix tracking theoretical depth, code implementat
 | `MOD-09` | **Transactions & Consistency** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | `COMPLETE` ✅ |
 | `MOD-10` | **Caching & Redis Mechanics** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | `COMPLETE` ✅ |
 | `MOD-11` | **Messaging & Apache Kafka** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | `COMPLETE` ✅ |
-| `MOD-12` | **Event-Driven Architecture** | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | `TODO` |
+| `MOD-12` | **Event-Driven Architecture** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | `COMPLETE` ✅ |
 | `MOD-13` | **Distributed Systems** | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | `TODO` |
 | `MOD-14` | **Resilience & Fault Tolerance**| ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | `TODO` |
 | `MOD-15` | **Concurrency & Backpressure** | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | `TODO` |
