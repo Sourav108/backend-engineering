@@ -15,8 +15,8 @@ This document serves as the **SINGLE SOURCE OF TRUTH** for the entire backend en
 
 | ID | Topic | Path | Status | Dependencies | Code | Project | Interview |
 |---|---|---|:---:|---|:---:|:---:|:---:|
-| `MOD-01` | **Backend Fundamentals** | [`01-backend-fundamentals/`](./01-backend-fundamentals/) | `TODO` | None | ✅ | — | ✅ |
-| `MOD-02` | **HTTP and APIs** | [`02-http-and-apis/`](./02-http-and-apis/) | `TODO` | MOD-01 | ✅ | — | ✅ |
+| `MOD-01` | **Backend Fundamentals** | [`01-backend-fundamentals/`](./01-backend-fundamentals/) | `COMPLETE` ✅ | None | ✅ | — | ✅ |
+| `MOD-02` | **HTTP and APIs** | [`02-http-and-apis/`](./02-http-and-apis/) | `COMPLETE` ✅ | MOD-01 | ✅ | — | ✅ |
 | `MOD-03` | **Request Lifecycle (Flagship)**| [`03-request-lifecycle/`](./03-request-lifecycle/) | `TODO` | MOD-01, MOD-02 | ✅ | — | ✅ |
 | `MOD-04` | **Networking for Backend** | [`04-networking-for-backend/`](./04-networking-for-backend/) | `TODO` | MOD-02 | ✅ | — | ✅ |
 | `MOD-05` | **API Design & Idempotency** | [`05-api-design/`](./05-api-design/) | `TODO` | MOD-02, MOD-03 | ✅ | — | ✅ |
