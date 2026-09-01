@@ -43,7 +43,7 @@ This document serves as the **SINGLE SOURCE OF TRUTH** for the entire backend en
 | `MOD-26` | **Containers & Kubernetes** | [`26-containers-and-kubernetes/`](./26-containers-and-kubernetes/) | `COMPLETE` ✅ | MOD-19 |  ✅ | — | ✅ |
 | `MOD-27` | **Production Engineering** | [`27-production-engineering/`](./27-production-engineering/) | `COMPLETE` ✅ | MOD-16, MOD-26 |  ✅ | — | ✅ |
 | `MOD-28` | **Testing Backend Systems** | [`28-testing/`](./28-testing/) | `COMPLETE` ✅ | MOD-07, MOD-11 |  ✅ | — | ✅ |
-| `MOD-29` | **Backend Projects (15 Apps)** | [`29-backend-projects/`](./29-backend-projects/) | `TODO` | MOD-01 to MOD-28 |  ✅ | ✅ | ✅ |
+| `MOD-29` | **Backend Projects (15 Apps)** | [`29-backend-projects/`](./29-backend-projects/) | `COMPLETE` ✅ | MOD-01 to MOD-28 |  ✅ | ✅ | ✅ |
 | `MOD-30` | **Production Debugging (20 Incidents)**| [`30-debugging/`](./30-debugging/) | `COMPLETE` ✅ | MOD-08, MOD-16 |  ✅ | — | ✅ |
 | `MOD-31` | **System Design Bridge** | [`31-system-design-bridge/`](./31-system-design-bridge/) | `COMPLETE` ✅ | MOD-13, MOD-18 |  ✅ | — | ✅ |
 | `MOD-32` | **Interview Preparation (300+ Qs)**| [`32-interview/`](./32-interview/) | `COMPLETE` ✅ | All Modules | — | — |  ✅ |
