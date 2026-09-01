@@ -31,7 +31,7 @@ This document serves as the **SINGLE SOURCE OF TRUTH** for the entire backend en
 | `MOD-14` | **Resilience & Fault Tolerance**| [`14-resilience/`](./14-resilience/) | `COMPLETE` ✅ | MOD-05, MOD-13 |  ✅ | — | ✅ |
 | `MOD-15` | **Concurrency & Backpressure** | [`15-concurrency-and-backpressure/`](./15-concurrency-and-backpressure/) | `COMPLETE` ✅ | MOD-01, MOD-03 |  ✅ | — | ✅ |
 | `MOD-16` | **Observability & Tracing** | [`16-observability/`](./16-observability/) | `COMPLETE` ✅ | MOD-03, MOD-14 |  ✅ | — | ✅ |
-| `MOD-17` | **Performance & p99 Tuning** | [`17-performance/`](./17-performance/) | `TODO` | MOD-08, MOD-15 |  ✅ | — | ✅ |
+| `MOD-17` | **Performance & p99 Tuning** | [`17-performance/`](./17-performance/) | `COMPLETE` ✅ | MOD-08, MOD-15 |  ✅ | — | ✅ |
 | `MOD-18` | **Scalability & Sharding** | [`18-scalability/`](./18-scalability/) | `TODO` | MOD-08, MOD-10 |  ✅ | — | ✅ |
 | `MOD-19` | **Microservices Architecture** | [`19-microservices/`](./19-microservices/) | `COMPLETE` ✅ | MOD-14, MOD-16 |  ✅ | — | ✅ |
 | `MOD-20` | **Service-to-Service Comm** | [`20-service-to-service-communication/`](./20-service-to-service-communication/) | `TODO` | MOD-19 |  ✅ | — | ✅ |
