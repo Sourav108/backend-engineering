@@ -21,7 +21,10 @@ flowchart TD
 ## 5. Internal Working
 [Deep dive into protocols, kernel buffers, data structures, and memory management]
 
-## 6. Example & Code
+## 6. Example
+[Conceptual code snippet or concrete real-world operational scenario]
+
+## 7. Implementation
 ```java
 package com.backend.engineering;
 
@@ -30,37 +33,37 @@ public class ExampleService {
 }
 ```
 
-## 7. Performance Characteristics
-[Latency profiles (p50/p99), throughput limits, CPU/memory/IO complexity]
+## 8. Performance
+[Latency profiles (p50/p90/p99/p99.9), throughput limits, CPU/memory/IO complexity]
 
-## 8. Failure Scenarios & Edge Cases
+## 9. Failure Scenarios
 - **Failure Mode 1**: [Description, blast radius, mitigation]
 - **Failure Mode 2**: [Description, blast radius, mitigation]
 
-## 9. Observability (Logs, Metrics, Traces)
+## 10. Observability
 - **Metrics**: [RED/USE metrics: `http_requests_total`, `latency_seconds`]
 - **Logs**: [Structured JSON logs with correlation IDs]
 - **Traces**: [W3C traceparent propagation across boundaries]
 
-## 10. Debugging & Troubleshooting
+## 11. Debugging
 [Step-by-step command-line and profiling triage runbook]
 
-## 11. Scaling Considerations
+## 12. Scaling
 [Vertical vs horizontal scaling, partitioning, read/write replication]
 
-## 12. Architectural Trade-offs
+## 13. Trade-offs
 | Approach | Pros | Cons | Best Suited For |
 |---|---|---|---|
 | Approach A | Fast, low complexity | Eventual consistency | High-read workloads |
 | Approach B | Strict consistency | Higher write latency | Financial ledgers |
 
-## 13. When to Use
+## 14. When to Use
 [Production use cases and concrete scenarios]
 
-## 14. When NOT to Use
+## 15. When NOT to Use
 [Scenarios where this introduces anti-patterns or unnecessary overhead]
 
-## 15. SDE2 / Senior Interview Questions & Answers
+## 16. Interview Questions
 ### Q1: [High-frequency SDE2 technical interview question]
 <details>
 <summary>Reveal Answer</summary>
@@ -68,10 +71,10 @@ public class ExampleService {
 **Answer**: [Deep technical answer with architectural rationale and trade-offs]
 </details>
 
-## 16. Practical Exercise
+## 17. Practical Exercise
 [Hands-on implementation drill or profiling assignment]
 
-## 17. Quick Revision Summary
+## 18. Quick Revision
 - [Bullet 1]
 - [Bullet 2]
 - [Bullet 3]
